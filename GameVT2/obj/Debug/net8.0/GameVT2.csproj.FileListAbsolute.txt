@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Programing2\HomeTask2\GameVT2\GameVT2\bin\Debug\net8.0\GameVT2.exe
+C:\Users\Admin\Desktop\Programing2\HomeTask2\GameVT2\GameVT2\bin\Debug\net8.0\GameVT2.deps.json
+C:\Users\Admin\Desktop\Programing2\HomeTask2\GameVT2\GameVT2\bin\Debug\net8.0\GameVT2.runtimeconfig.json
+C:\Users\Admin\Desktop\Programing2\HomeTask2\GameVT2\GameVT2\bin\Debug\net8.0\GameVT2.dll
+C:\Users\Admin\Desktop\Programing2\HomeTask2\GameVT2\GameVT2\bin\Debug\net8.0\GameVT2.pdb
+C:\Users\Admin\Desktop\Programing2\HomeTask2\GameVT2\GameVT2\obj\Debug\net8.0\GameVT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Programing2\HomeTask2\GameVT2\GameVT2\obj\Debug\net8.0\GameVT2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programing2\HomeTask2\GameVT2\GameVT2\obj\Debug\net8.0\GameVT2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programing2\HomeTask2\GameVT2\GameVT2\obj\Debug\net8.0\GameVT2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programing2\HomeTask2\GameVT2\GameVT2\obj\Debug\net8.0\GameVT2.dll
+C:\Users\Admin\Desktop\Programing2\HomeTask2\GameVT2\GameVT2\obj\Debug\net8.0\refint\GameVT2.dll
+C:\Users\Admin\Desktop\Programing2\HomeTask2\GameVT2\GameVT2\obj\Debug\net8.0\GameVT2.pdb
+C:\Users\Admin\Desktop\Programing2\HomeTask2\GameVT2\GameVT2\obj\Debug\net8.0\GameVT2.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Programing2\HomeTask2\GameVT2\GameVT2\obj\Debug\net8.0\ref\GameVT2.dll
